@@ -56,7 +56,7 @@ This app analyzes a resume against a job description using **Google Gemini 2.0 F
     They contain example resume and job description content for demo purposes.
 
 ##  Author
-# Karthiga
+# Karthiga Alias Amali 
  - PG Data Science Student
 - Aspiring Data Scientist | AI Project Builder | Streamlit Developer
 
