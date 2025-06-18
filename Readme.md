@@ -26,18 +26,6 @@ This app analyzes a resume against a job description using **Google Gemini 2.0 F
 - `python-dotenv` – API key loading
 - Powered by [Google AI Studio (Gemini)](https://makersuite.google.com/)
 
----
-
-## 📂 Project Structure
-
-ai-resume-analyzer/
-├── app.py # Main Streamlit app
-├── .env # Contains GEMINI_API_KEY (not committed)
-├── requirements.txt # Dependencies
-├── .gitignore # Files to exclude from Git
-├── README.md # Project documentation
-├── sample_resume.pdf # (Optional) Test resume
-├── sample_job_description.pdf # (Optional) Test JD
 
 
 ---
